@@ -2,7 +2,7 @@
 
 > A pattern language for runtime constitutional constraints in AI systems — documented in the style of the Gang of Four, applied to AI governance.
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 [![Status: Active](https://img.shields.io/badge/Status-Active-brightgreen)]()
 
 ---
